@@ -1,0 +1,23 @@
+* {
+    font-family: 'Press Start 2P', cursive;
+}
+
+#board {
+    border: 2px solid black;
+}
+
+#play-button {
+    background-color: #4b8df9;
+    color: white;
+    height: 35px;
+    width: 150px;
+}
+th, td {
+    height: 40px;
+    text-align: center;
+}
+
+input {
+    height: 25px;
+    width: 300px;
+}
